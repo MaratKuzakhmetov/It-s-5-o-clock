@@ -19,5 +19,24 @@
     "eslint": "^8.20.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0"
-  }
+  },
+  "name": "it-s-5-o-clock",
+  "description": "It's the web-app for tea-lovers. Using this app you can find lots of information about different kinds of tea and locations, where are the growing.",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaratKuzakhmetov/It-s-5-o-clock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaratKuzakhmetov/It-s-5-o-clock/issues"
+  },
+  "homepage": "https://github.com/MaratKuzakhmetov/It-s-5-o-clock#readme"
 }
